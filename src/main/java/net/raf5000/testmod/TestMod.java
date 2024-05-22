@@ -1,5 +1,5 @@
 package net.raf5000.testmod;
-
+//test
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
